@@ -47,7 +47,7 @@ enableGitInfo = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "dark"
+  color_theme = "default"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -63,7 +63,7 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = ""  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "adolfoetec [at] gmail (dot) com (preferred) or adolfotec [at] berkeley (dot) edu"
+  email = "adolfoetec [at] gmail (dot) com ' (preferred) or ' adolfotec [at] berkeley (dot) edu"
   address = "3134 W. Coolidge Ave., Anaheim, California, 92801, USA"
   office_hours = ""
   phone = "714-833-0509"
@@ -158,7 +158,7 @@ enableGitInfo = false
   # Privacy pack
   #   Show a cookie consent message to visitors
   #   Anonymize IP in Google Analytics (if enabled)
-  privacy_pack = true
+  privacy_pack = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
