@@ -13,7 +13,7 @@ weight = 5
     "Rigid Body Dynamics",
     "Control Systems Design",
     "Robotics and Automation",
-    "Mechanics"
+    "Continuum Mechanics"
   ]
 
 # List your qualifications (such as academic degrees).
