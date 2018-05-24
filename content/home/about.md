@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2016-04-20T00:00:00
+date = 2018-05-24T00:00:00
 
 # Order that this section will appear in.
 weight = 5
@@ -13,7 +13,8 @@ weight = 5
     "Rigid Body Dynamics",
     "Control Systems Design",
     "Robotics and Automation",
-    "Continuum Mechanics"
+    "Continuum Mechanics",
+    "Optimization"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -21,11 +22,13 @@ weight = 5
   course = "B.S. in Mechanical Engineering"
   institution = "University of California, Berkeley"
   year = 2017
- 
+
 +++
 
 # Biography
 
-I am a recent graduate from the University of California, Berkeley in mechanical engineering. 
+I am a curious thinker, self-described conceptual technician, and a recent graduate from the University of California, Berkeley in mechanical engineering. I have worked on numerous projects involving manufacturing, design, graphics, animation, control systems, robotics, and dynamics. During my free time, I enjoy running, cycling, hiking, and reading.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+As a student, I took part in the [UC Berkeley Human Powered Vehicle Team](https://hpv.berkeley.edu) and the [Human-Assistive Robotic Technologies](https://hart.berkeley.edu) where I applied and enhanced my skills in CAD, machine design, control theory, and manufacturing.
+
+{{% staticref "files/adolfo_tec_resume.pdf" "newtab" %}}Resume (PDF){{% /staticref %}}
