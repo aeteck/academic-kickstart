@@ -13,8 +13,9 @@ weight = 5
     "Rigid Body Dynamics",
     "Control Systems Design",
     "Robotics and Automation",
-    "Continuum Mechanics",
-    "Optimization"
+    "Optimization",
+    "Continuum Mechanics"
+    "Measurement and Instrumentation"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -25,11 +26,11 @@ weight = 5
 
 +++
 
-# Biography
+## Biography
 
-I am a curious thinker, self-described conceptual technician, and a recent[^1] graduate from the University of California, Berkeley in mechanical engineering. I have worked on numerous projects involving manufacturing, design, graphics, animation, control systems, robotics, and dynamics. During my free time, I enjoy running, cycling, hiking, and reading.
+I am a curious thinker, conceptual technician, and a recent[^1] graduate from the University of California, Berkeley in mechanical engineering. I have worked on numerous projects involving manufacturing, design, graphics, control systems, robotics, and dynamics. During my free time, I enjoy running, cycling, hiking, and reading.
 
-As a student, I took part in the [UC Berkeley Human Powered Vehicle Team](https://hpv.berkeley.edu) and the [Human-Assistive Robotic Technologies](https://hart.berkeley.edu) where I applied and enhanced my skills in CAD, machine design, control theory, and manufacturing.
+As a student, I took part in the [UC Berkeley Human Powered Vehicle Team](https://hpv.berkeley.edu) and the [Human-Assistive Robotic Technologies](https://hart.berkeley.edu) laboratory where I applied and enhanced my skills and interests involving: CAD, machine design, manufacturing, control theory, data analysis, and vehicle applications. In addition, I have taken extensive coursework in the areas of dynamics and control to further my knowledge in these topics. This website is intended to elaborate on my skillset by offering an in depth view of the projects I have worked on.
 
 {{% staticref "files/adolfo_tec_resume.pdf" "newtab" %}}Resume (PDF){{% /staticref %}}
 
