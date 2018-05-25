@@ -14,7 +14,7 @@ weight = 5
     "Control Systems Design",
     "Robotics and Automation",
     "Optimization",
-    "Continuum Mechanics"
+    "Continuum Mechanics",
     "Measurement and Instrumentation"
   ]
 
