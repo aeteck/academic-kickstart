@@ -26,7 +26,7 @@ weight = 5
 
 +++
 
-## Biography
+# Biography
 
 I am a curious thinker, conceptual technician, and a recent[^1] graduate from the University of California, Berkeley in mechanical engineering. I have worked on numerous projects involving manufacturing, design, graphics, control systems, robotics, and dynamics. During my free time, I enjoy running, cycling, hiking, and reading.
 
