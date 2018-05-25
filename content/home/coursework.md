@@ -16,6 +16,7 @@ weight = 60
 +++
 
 I have taken the following relevant coursework:
+
 - Newton-Euler Mechanics
 - Rigid-Body Dynamics
 - Lagrangian Dynamics
