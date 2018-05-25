@@ -59,14 +59,14 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of California, Berkeley", url = "" } ]
+  organizations = [ { name = "University of California, Berkeley", url = "https://me.berkeley.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = ""  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "adolfotec@protonmail.com (preferred) or adolfoetec@gmail.com"
-  address = "3134 W. Coolidge Ave., Anaheim, California, 92801, USA"
+  address = "3134 W. Coolidge Ave., Anaheim, CA, 92801"
   office_hours = ""
-  phone = "714-833-0509"
+  phone = "(714) 833-0509"
   skype = ""
   telegram = ""
 
