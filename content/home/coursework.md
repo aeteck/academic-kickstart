@@ -16,12 +16,12 @@ weight = 60
 +++
 
 I have taken the following relevant coursework:
-* Newton-Euler Mechanics
-* Rigid-Body Dynamics
-* Lagrangian Dynamics
-* Microprocessor-Based Mechanical Systems
-* Dynamic Control Systems and Feedback
-* Electrical Devices and Systems
-* Continuum Mechanics
-* Numerical Analysis
-* Advanced Engineering Graphics
+- Newton-Euler Mechanics
+- Rigid-Body Dynamics
+- Lagrangian Dynamics
+- Microprocessor-Based Mechanical Systems
+- Dynamic Control Systems and Feedback
+- Electrical Devices and Systems
+- Continuum Mechanics
+- Numerical Analysis
+- Advanced Engineering Graphics
