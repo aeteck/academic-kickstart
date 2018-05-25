@@ -6,7 +6,7 @@ date = 2016-04-27T00:00:00
 title = "Siesta"
 
 # Project summary to display on homepage.
-summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+summary = "A smart drink dispenser."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "siesta.png"
@@ -23,17 +23,18 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
+image = "siesta.png"
 caption = ""
 
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Siesta, a touchscreen-based drink dispenser, was completed with a group of four other students for the senior Mechatronics Design course at Berkeley (ME102B). Our team decided on creating an automatic drink dispenser capable of payment tracking for billing purposes within an internal database and dispensing up to three refrigerated drinks and one hot drink of desired volumes. The inspiration for this project came when one teammate realized there was a regular shortage of coffee for him and his department due to other departments stealing the inventory. Thus, we realized the benefit of creating a versatile drink dispenser for office use that is able to track and bill people’s personal or department’s usage.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+Upon the design of the project, our team decided to place a high emphasis on final-product aesthetics and presentation due to the implicit trend of previous projects looking like prototypes. Siesta was made of bent aluminum sheet metal, acrylic, and a 3D printed cup holder with all other internals encased within the aluminum casing. Refrigeration of the drinks was made possible by using two peltier units coupled with an insulating casing, which were capable of maintaining a steady state temperature of 5ºC. Heating of the drink was made possible by using a generic heating element encased in a thermally insulated thermos. The custom-made GUI was displayed on a 7” touchscreen display and was powered by a Raspberry Pi using Kivy, a Python library. The drinks were dispensed by diaphragm pumps controlled by an Arduino Mega.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+I was in charge of writing the controllers to regulate the volume flow of the pumps, the temperature of the hot drink, and establishing secure serial communication with the Arduino and the Raspberry Pi’s GUI along with all hardware associated with these controllers. In addition, I aided with the manufacturing of the outer casing and the manifolds (not shown) to prevent leakage to a high tolerance.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+For the final expo, Siesta functioned flawlessly with no errors or issues and was ultimately selected to receive the Frank Jarrettt Machine Design Prize as the most outstanding ME102B project. For more information, visit [https://siesta-berkeley.weebly.com/](https://siesta-berkeley.weebly.com/)
+
+*Learning outcomes of this project include: Team communication skills, time management (deadline) responsibilities, electrical systems integration, manufacturing and design techniques.*

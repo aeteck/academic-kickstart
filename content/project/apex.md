@@ -6,7 +6,7 @@ date = 2016-04-27T00:00:00
 title = "APEX"
 
 # Project summary to display on homepage.
-summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+summary = "Research conducted on Active-Passive Exoskeleton (APEX)."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "apex.jpg"
@@ -28,12 +28,12 @@ caption = ""
 
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+I joined the Human-Assistive Robotic Technologies (HART) Lab during the 2016 Fall semester. During this time, the lab was involved in a joint project with the Mechanical Systems Control (MSC) Lab to investigate an active-passive exoskeleton (APEX) capable of providing assistance to individuals suffering from muscoskeletal conditions. Namely, the labs were interested in creating a device to passively provide continuous assistance as opposed to active assistance to individuals who need help compressing and extending the arm.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+I was placed in a group responsible for characterizing the stiffness response of the pneumatic cylinders being used for this device. To do this, a test rig was set up to control the cylinders which consisted of: Force-torque sensors, encoders, and a data acquisition (DAQ) system. My role included running numerous simulations using MATLAB and the physical hardware to create a model completely characterized by the initial conditions of the system. In addition, I trained a few people and created detailed documentation of results and procedures.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+Though initial characterizations were created by way of theoretical models, we eventually created mathematical (numerical) models. This process consisted of simulation, data fitting, and fine adjusting to control and predict numerous states for the system. Conclusion from these tests allowed us to predict stiffness values, as this was the initial goal.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+For more information, visit: The [HART Lab](httsp://hart.berkeley.edu/) or DOI: [10.1109/IROS.2015.7354133](https://doi.org/10.1109/IROS.2015.7354133)
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+*Learning outcomes include: Electronics assembly, simulation, characterization, data analysis, numerical analysis, documentation.*
