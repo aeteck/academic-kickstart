@@ -10,7 +10,7 @@ title = "Adolfo Tec"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2018 Adolfo Tec"
 
 theme = "academic"
 enableEmoji = true
@@ -63,7 +63,7 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = ""  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = ["adolfotec@protonmail.com", ' (preferred) or ', "adolfoetec@gmail.com"]
+  email = "adolfotec@protonmail.com", ' (preferred) or ', "adolfoetec@gmail.com"
 
   # """\
   #             adolfotec@protonmail.com \
@@ -72,7 +72,7 @@ enableGitInfo = false
   #         """
   address = """
   3134 W. Coolidge Ave.
-  Anaheim, California, 92801"""
+  Anaheim, California 92801"""
   office_hours = ""
   phone = "(714) 833-0509"
   skype = ""
