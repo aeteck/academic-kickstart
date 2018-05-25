@@ -9,7 +9,7 @@ title = "Suspension"
 summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "susp.png"
+image_preview = "susp.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
