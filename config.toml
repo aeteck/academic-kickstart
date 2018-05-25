@@ -63,7 +63,7 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = ""  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "<a href="mailto:adolfotec@protonmail.com">adolfotec@protonmail.com</a> (preffered) or adolfoetec@gmail.com"
+  email = <a href="mailto:adolfotec@protonmail.com">adolfotec@protonmail.com</a> "(preffered) or " <a href="mailto:adolfoetec@gmail.com">adolfoetec@gmail.com</a>
   address = "3134 W. Coolidge Ave., Anaheim, California, 92801, USA"
   office_hours = ""
   phone = "714-833-0509"
