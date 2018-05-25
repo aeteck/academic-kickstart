@@ -27,8 +27,10 @@ weight = 5
 
 # Biography
 
-I am a curious thinker, self-described conceptual technician, and a recent graduate from the University of California, Berkeley in mechanical engineering. I have worked on numerous projects involving manufacturing, design, graphics, animation, control systems, robotics, and dynamics. During my free time, I enjoy running, cycling, hiking, and reading.
+I am a curious thinker, self-described conceptual technician, and a recent[^1] graduate from the University of California, Berkeley in mechanical engineering. I have worked on numerous projects involving manufacturing, design, graphics, animation, control systems, robotics, and dynamics. During my free time, I enjoy running, cycling, hiking, and reading.
 
 As a student, I took part in the [UC Berkeley Human Powered Vehicle Team](https://hpv.berkeley.edu) and the [Human-Assistive Robotic Technologies](https://hart.berkeley.edu) where I applied and enhanced my skills in CAD, machine design, control theory, and manufacturing.
 
 {{% staticref "files/adolfo_tec_resume.pdf" "newtab" %}}Resume (PDF){{% /staticref %}}
+
+[^1]: Within the last six months.
