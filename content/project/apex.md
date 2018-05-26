@@ -23,12 +23,13 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "apex.jpg"
-caption = "Apex worn by user. Photo credits to the HART Lab."
+image = ""
+caption = ""
 
 +++
+{{< figure src="/img/apex.jpg" title="APEX worn by user. Photo credits to the HART Lab." >}}
 
-I joined the Human-Assistive Robotic Technologies (HART) Lab during the 2016 Fall semester. During this time, the lab was involved in a joint project with the Mechanical Systems Control (MSC) Lab to investigate an active-passive exoskeleton (APEX) capable of providing assistance to individuals suffering from muscoskeletal conditions. Namely, the labs were interested in creating a device to passively provide continuous assistance as opposed to active assistance to individuals who need help compressing and extending the arm.
+I joined the Human-Assistive Robotic Technologies (HART) Lab during the 2016 Fall semester. During this time, the lab was involved in a joint project with the Mechanical Systems Control (MSC) Lab to investigate an active-passive exoskeleton (APEX) capable of providing assistance to individuals suffering from musculoskeletal conditions. Namely, the labs were interested in creating a device to passively provide continuous assistance as opposed to active assistance to individuals who need help compressing and extending the arm.
 
 I was placed in a group responsible for characterizing the stiffness response of the pneumatic cylinders being used for this device. To do this, a test rig was set up to control the cylinders which consisted of: Force-torque sensors, encoders, and a data acquisition (DAQ) system. My role included running numerous simulations using MATLAB and the physical hardware to create a model completely characterized by the initial conditions of the system. In addition, I trained a few people and created detailed documentation of results and procedures.
 

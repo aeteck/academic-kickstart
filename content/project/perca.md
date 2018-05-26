@@ -23,10 +23,11 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "perca.png"
+image = ""
 caption = ""
 
 +++
+![PERCA Render](/img/perca.png)
 
 This project was completed in a group of five students for a Microprocessor-Based Mechanical Systems course (ME135). The overall objective of the course was to create a mechanical system that utilizes a microprocessor’s capability to run in real-time and multitask. To that end, our team decided to create a product capable of reading a piece of text out loud to the user.
 

@@ -30,7 +30,7 @@ caption = ""
 
 The magnetic levitation system was a project also completed for the controls engineering course at Berkeley (MEC134). The goal of this project was to implement a purely analog controller to levitate a metallic ball in a magnetic field.
 
-This project emphasized system identification via a “gray-box” method of the system as opposed to “white-box” modelling. Thus, many data points were taken to create a mathematical model to be able to control with the right components. Through analysis, it was found that in order to control this system easily, the system first had to be linearized.
+This project emphasized system identification via a “gray-box” method of the system as opposed to “white-box” modeling. Thus, many data points were taken to create a mathematical model to be able to control with the right components. Through analysis, it was found that in order to control this system easily, the system first had to be linearized.
 
 Different controller design techniques were implemented in this project such as: Use of the bode plot, root locus method, and implementing MATLAB tools to design a lead compensator.
 

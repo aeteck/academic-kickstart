@@ -23,11 +23,12 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "siesta.png"
+image = ""
 caption = ""
 
 +++
-{{< figure src="/img/siesta_irl.jpg" title="Siesta completed and in demo." >}}
+![Siesta render](/img/siesta.png)
+![Siesta in demonstration](/img/siesta_irl.jpg)
 
 Siesta, a touchscreen-based drink dispenser, was completed with a group of four other students for the senior Mechatronics Design course at Berkeley (ME102B). Our team decided on creating an automatic drink dispenser capable of payment tracking for billing purposes within an internal database and dispensing up to three refrigerated drinks and one hot drink of desired volumes. The inspiration for this project came when one teammate realized there was a regular shortage of coffee for him and his department due to other departments stealing the inventory. Thus, we realized the benefit of creating a versatile drink dispenser for office use that is able to track and bill people’s personal or department’s usage.
 
@@ -37,7 +38,7 @@ Upon the design of the project, our team decided to place a high emphasis on fin
 
 I was in charge of writing the controllers to regulate the volume flow of the pumps, the temperature of the hot drink, and establishing secure serial communication with the Arduino and the Raspberry Pi’s GUI along with all hardware associated with these controllers. In addition, I aided with the manufacturing of the outer casing and the manifolds (not shown) to prevent leakage to a high tolerance.
 
-For the final expo, Siesta functioned flawlessly with no errors or issues and was ultimately selected to receive the Frank Jarrettt Machine Design Prize as the most outstanding ME102B project. For more information, visit [the website](https://siesta-berkeley.weebly.com/).
+For the final expo, Siesta functioned flawlessly with no errors or issues and was ultimately selected to receive the Frank Jarrett Machine Design Prize as the most outstanding ME102B project. For more information and images, visit [the website](https://siesta-berkeley.weebly.com/).
 
 {{< youtube U31IIIBJkOY >}}
 
