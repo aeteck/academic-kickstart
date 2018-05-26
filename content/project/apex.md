@@ -24,7 +24,7 @@ math = false
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "apex.jpg"
-caption = ""
+caption = "Apex worn by user. Photo credits to the HART Lab."
 
 +++
 

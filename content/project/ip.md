@@ -23,10 +23,11 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "ip.jpg"
+image = ""
 caption = ""
 
 +++
+![Inverted pendulum schematic](/img/ip.jpg)
 
 The classic “inverted pendulum on a cart” control problem was done throughout the course of the semester with one other person for the second course in control systems at Berkeley (MEC134). As this project was completed throughout the course of the semester, many different aspects of control systems were explored as different modules including: Modeling, Simulation, Observer methods, LQR control, and Nonlinear control, to name a few.
 
