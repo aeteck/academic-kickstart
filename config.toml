@@ -47,7 +47,7 @@ enableGitInfo = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "default"
+  color_theme = "dark"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -234,10 +234,10 @@ enableGitInfo = false
     icon_pack = "fa"
     link = "mailto:adolfotec@protonmail.com"
 
-  [[params.social]]
-    icon = "researchgate"
-    icon_pack = "ai"
-    link = "https://www.researchgate.net/profile/Adolfo_Tec"
+  # [[params.social]]
+  #   icon = "researchgate"
+  #   icon_pack = "ai"
+  #   link = "https://www.researchgate.net/profile/Adolfo_Tec"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
