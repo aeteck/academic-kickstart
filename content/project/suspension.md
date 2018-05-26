@@ -27,7 +27,7 @@ image = ""
 caption = ""
 
 +++
-![Suspension render](/img/susp.jpg) ![Suspension assembly](/img/susp_irl.jpeg)
+![Suspension assembly](/img/susp_irl.jpeg)
 
 This project was completed with the UC Berkeley Human Powered Vehicle Team’s suspension sub-team for the 2017 vehicle, BLT – the second tricycle iteration of the team. We were tasked with designing and manufacturing a suspension system of our choice, with consideration of track width, weight, stability, and traction in mind. The initial decision was whether to improve on the previous vehicle’s system, a classical double wishbone system, or design a completely different one.
 
@@ -37,9 +37,7 @@ As such, we decided it was better to implement a new design, due to the double w
 
 This design was finalized with the help of some Finite Element Analysis simulations performed in SolidWorks. Although I was not the one who performed the actual simulations, I aided in creating the load models associated with the simulations. In particular, we were interested in three different loading cases: lateral loads under cornering, braking forces under deceleration, and reaction forces when impacting a speed bump (as the competition incorporates a speed bump during the race). The results from the FEA simulations helped us refine the parts until a desired factor of safety was achieved.
 
-{{< figure src="/img/susp_corner.png" title="Stress FEA due to cornering." >}}
-{{< figure src="/img/susp_brake.png" title="Stress FEA due to braking." >}}
-{{< figure src="/img/susp_bump_stress.png" title="Stress FEA due to a speed bump." >}}
+{{< figure src="/img/susp_corner.png" title="Example of stress FEA due to cornering." >}}
 
 While the design phase occurred during the Fall semester, manufacturing was taken into consideration. As such, most parts were designed to be CNC machined, while the only parts designed to be hand-machined were the wheel spindles. However, as we designed for a press fit, the spindle had to be machined to be within a 0.0005” tolerance to be correctly fit with the lower link.
 
