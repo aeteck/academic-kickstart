@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
+image = "susp.jpg"
 caption = ""
 
 +++
@@ -35,7 +35,7 @@ This project was completed with the UC Berkeley Human Powered Vehicle Team’s s
 As such, we decided it was better to implement a new design, due to the double wishbone system’s bulkiness and unnecessary features for a tricycle. The final design was heavily influenced by ICE Tricycle’s front suspension system. Our design consisted of a four bar mechanism, where the upper link connected to the frame by way of a steerer tube, and the lower link connected to the front wheel by a spindle. Two H-links connect the upper and lower links together to move the lower link in a prescribed path. In addition, a Fox Float DPS shock was incorporated and is mounted between the upper and lower links to allow 1.25 inches of travel. This designed proved to be advantageous due to the fact that it is extremely compact and all suspension movement and dynamics are planar with the steering knuckle (i.e. there are no moving parts outside of the steering knuckle plane). One disadvantage from this design, however, was the fact that the system did not allow camber angle change under compression. As such, a high caster angle of 12º was chosen to compensate, as the camber angle will increase when the wheels are turned.
 
 {{< figure src="/img/hpv_side.jpg" title="Side view of the wheel assembly." >}}
-{{< figure src="/img/hpv_top" title="Top view of the vehicle assembly." >}}
+{{< figure src="/img/hpv_top.jpg" title="Top view of the vehicle assembly." >}}
 
 This design was finalized with the help of some Finite Element Analysis simulations performed in SolidWorks. Although I was not the one who performed the actual simulations, I aided in creating the load models associated with the simulations. In particular, we were interested in three different loading cases: lateral loads under cornering, braking forces under deceleration, and reaction forces when impacting a speed bump (as the competition incorporates a speed bump during the race). The results from the FEA simulations helped us refine the parts until a desired factor of safety was achieved.
 

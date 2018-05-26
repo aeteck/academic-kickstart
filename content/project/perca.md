@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
+image = "perca.png"
 caption = ""
 
 +++
@@ -34,7 +34,7 @@ The motivation of this project was to assist the visually impaired who cannot re
 
 PERCA was powered and operated by the National Instruments myRIO microcontroller running LabVIEW to control two stepper motors and communicate with a computer webcam. The myRIO code incorporated a state machine architecture in order to integrate all sub Virtual Instruments (VIs).
 
-{{< figure src="/img/perva_vi.png" title="An example of a VI responsible for changing lines." >}}
+{{< figure src="/img/perca_vi.png" title="An example of a VI responsible for changing lines." >}}
 
 When it came time to present the product, PERCA worked flawlessly and met its objective of being able to scan a page and read it out loud in real-time. To view a timelapse of PERCA in action, please see the following: {{< youtube HWrEg3_ONYw>}}
 
