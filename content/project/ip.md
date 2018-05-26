@@ -35,8 +35,8 @@ The overall goal of this project was to implement a robust controller to success
 
 This project was completed using MATLAB and Simulink while the physical hardware was composed of Quanser’s QuaRC software and their Q4 DAQ. I was in charge of most components of the project including: Software simulation, laboratory testing, and experimental write-up. Ultimately, this project was successful and extremely valuable for controls knowledge.
 
-To see a demo of the project in action: {{< youtube 6crAh9LXtlg >}}
-
 To view the extensive documentation: {{% staticref "files/ip_compiled.pdf" "newtab" %}}(PDF){{% /staticref %}}.
+
+To see a demo of the project in action: {{< youtube 6crAh9LXtlg >}}
 
 *Learning outcomes include: Control systems fundamentals, modeling, simulation, expertise in MATLAB and Simulink, technical document preparation.*

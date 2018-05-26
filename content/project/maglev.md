@@ -34,8 +34,8 @@ This project emphasized system identification via a “gray-box” method of the
 
 Different controller design techniques were implemented in this project such as: Use of the bode plot, root locus method, and implementing MATLAB tools to design a lead compensator.
 
-To see a demo of the ball levitating, click on the title in my resume, or see: {{< youtube 1TiKO9B2M_s>}}
-
 To view the extensive documentation: {{% staticref "files/maglev.pdf" "newtab" %}}(PDF){{% /staticref %}}.
+
+To see a demo of the ball levitating, see: {{< youtube 1TiKO9B2M_s>}}
 
 *Learning outcomes include: System identification techniques, MATLAB reinforcement, electronics debugging, documentation.*
