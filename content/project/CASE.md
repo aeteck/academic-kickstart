@@ -6,7 +6,7 @@ date = 2016-04-27T00:00:00
 title = "CASE Animation"
 
 # Project summary to display on homepage.
-summary = "A CAD and animation project showing a CASE steam traction engine."
+summary = "Animation project showing a CASE steam traction engine."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "case.png"
