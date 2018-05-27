@@ -13,9 +13,9 @@ weight = 5
     "Rigid Body Dynamics",
     "Control Systems Design",
     "Robotics and Automation",
-    "Optimization",
-    "Continuum Mechanics",
-    "Measurement and Instrumentation"
+    "Manufacturing and Machine Methods",
+    "Measurement and Instrumentation",
+    "Optimization"
   ]
 
 # List your qualifications (such as academic degrees).
