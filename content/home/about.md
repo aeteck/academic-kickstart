@@ -28,11 +28,12 @@ weight = 5
 
 # Biography
 
-I am a curious thinker, conceptual technician, and a recent[^1] graduate from the University of California, Berkeley in mechanical engineering. I have worked on numerous projects involving manufacturing, design, graphics, control systems, robotics, and dynamics. During my free time, I enjoy running, cycling, hiking, and reading[^2].
+I am a curious thinker, conceptual technician, and a recent graduate from the University of California, Berkeley in mechanical engineering. I have worked on numerous projects involving manufacturing, design, graphics, control systems, robotics, and dynamics. During my free time, I enjoy running, cycling, hiking, and reading. [^1]
 
-As a student, I took part in the [UC Berkeley Human Powered Vehicle Team](https://hpv.berkeley.edu) and the [Human-Assistive Robotic Technologies](https://hart.berkeley.edu) laboratory where I applied and enhanced my skills and interests involving: CAD, machine design, manufacturing, control theory, and data analysis. In addition, I have taken extensive coursework in the areas of dynamics and control to further my interest in these topics. Overall, I am involved in the lifelong pursuit of knowledge. This website is intended to elaborate on my skillset by offering an in-depth view of the projects I have worked on.
+As a student, I took part in the [UC Berkeley Human Powered Vehicle Team](https://hpv.berkeley.edu) and the [Human-Assistive Robotic Technologies](https://hart.berkeley.edu) laboratory where I applied and enhanced my skills and interests involving: CAD, machine design, manufacturing, control theory, and data analysis. In addition, I have taken extensive coursework in the areas of dynamics and control to feed my interest and curiosity in these topics.
+
+Overall, I am involved in the lifelong pursuit of knowledge. This website is intended to elaborate on my skillset by offering an in-depth view of the projects I have worked on.
 
 {{% staticref "files/adolfo_tec_resume.pdf" "newtab" %}}Resume (PDF){{% /staticref %}}
 
-[^1]: Within the last six months.
-[^2]: Anything from textbooks and journal articles to novels.
+[^1]: Anything from textbooks and journal articles to novels.
