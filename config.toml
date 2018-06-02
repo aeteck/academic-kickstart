@@ -68,9 +68,7 @@ enableGitInfo = false
               (preferred) or \
               adolfoetec@gmail.com\
           '''
-  address = """
-  3134 W. Coolidge Ave.
-  Anaheim, California 92801"""
+  address = "California, USA"
   office_hours = ""
   phone = "(714) 833-0509"
   skype = ""
