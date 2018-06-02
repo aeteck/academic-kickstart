@@ -6,7 +6,7 @@ date = 2016-04-27T00:00:00
 title = "Siesta"
 
 # Project summary to display on homepage.
-summary = "A smart drink dispenser."
+summary = "Winner of the Frank Jarrett Prize in machine design – A smart drink dispenser."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "siesta.png"
