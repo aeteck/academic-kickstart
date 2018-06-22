@@ -35,6 +35,6 @@ I was placed in a group responsible for characterizing the stiffness response of
 
 Though initial characterizations were created by way of theoretical models, we eventually created mathematical (numerical) models. This process consisted of simulation, data fitting, and fine adjusting to control and predict numerous states for the system. Conclusion from these tests allowed us to predict stiffness values, as this was the initial goal.
 
-For more information, visit: The [HART Lab](httsp://hart.berkeley.edu/) or DOI: [10.1109/IROS.2015.7354133](https://doi.org/10.1109/IROS.2015.7354133)
+For more information, visit: The [HART Lab](https://hart.berkeley.edu/) or DOI: [10.1109/IROS.2015.7354133](https://doi.org/10.1109/IROS.2015.7354133)
 
 *Learning outcomes include: Electronics assembly, simulation, characterization, data analysis, numerical analysis, documentation.*
