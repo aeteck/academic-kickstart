@@ -17,12 +17,11 @@ weight = 50
 
 I have taken the following relevant coursework:
 
-- Newton-Euler Mechanics
-- Rigid-Body Dynamics
-- Lagrangian Mechanics
 - Microprocessor-Based Mechanical Systems
 - Dynamic Control Systems and Feedback
 - Electrical Devices and Systems
+- Newton-Euler Mechanics
+- Lagrangian Mechanics
 - Continuum Mechanics
 - Numerical Analysis
 - Advanced Engineering Graphics
