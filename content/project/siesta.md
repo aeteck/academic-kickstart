@@ -38,8 +38,8 @@ Upon the design of the project, our team decided to place a high emphasis on fin
 
 I was in charge of writing the controllers to regulate the volume flow of the pumps, the temperature of the hot drink, and establishing secure serial communication with the Arduino and the Raspberry Pi’s GUI along with all hardware associated with these controllers. In addition, I aided with the manufacturing of the outer casing and the manifolds (not shown) to prevent leakage to a high tolerance.
 
+For the final expo, Siesta functioned flawlessly with no errors or issues and was ultimately selected to receive the Frank Jarrett Machine Design Prize as the most outstanding ME102B project. For more information and images, visit [the website](https://siesta-berkeley.weebly.com/).
 ![Me, demoing](/img/siesta_demo.jpg)
-
-For the final expo, Siesta functioned flawlessly with no errors or issues and was ultimately selected to receive the Frank Jarrett Machine Design Prize as the most outstanding ME102B project. For more information and images, visit [the website](https://siesta-berkeley.weebly.com/). {{< youtube U31IIIBJkOY >}}
+{{< youtube U31IIIBJkOY >}}
 
 *Learning outcomes of this project include: Team communication skills, time management (deadline) responsibilities, electrical systems integration, manufacturing and design techniques.*
