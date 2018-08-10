@@ -1,6 +1,6 @@
 +++
 title = "Deformation Due to Cyclic Loading"
-date = 2015-11-02T00:00:00
+date = 2016-11-02T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
