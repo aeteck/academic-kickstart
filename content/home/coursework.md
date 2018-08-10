@@ -15,7 +15,7 @@ weight = 50
 
 +++
 
-I have taken the following relevant coursework:
+Relevant coursework:
 
 - Microprocessor-Based Mechanical Systems
 - Dynamic Control Systems and Feedback
