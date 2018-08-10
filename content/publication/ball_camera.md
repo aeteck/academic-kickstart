@@ -1,6 +1,6 @@
 +++
 title = "Ball Control Using a Camera"
-date = 2015-09-01T00:00:00
+date = 2017-04-12T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -22,7 +22,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "This lab utilizes the same ping pong ball tower used in the previous lab, but with vision acquisition from a PlayStation Eye camera used to measure and control the position of the centroid of the ball. LabVIEW’s Vision Assistant block and several vision filters were used to accurately find the ball’s centroid. The ping pong ball’s position and the fan voltage were correlated using a linear equation to implement position control of the ball. This controller yielded results less accurate than our previous PID control for the IR sensor, but was still accurate enough to control the ping pong with a fairly close level of accuracy."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -70,5 +70,4 @@ image = ""
 caption = ""
 
 +++
-
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+Written for a course in instrumentation and measurements, this is mainly here for my own sake.

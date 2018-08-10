@@ -1,6 +1,6 @@
 +++
 title = "Ball Control using IR Proximity Sensor"
-date = 2015-09-01T00:00:00
+date = 2017-04-12T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -22,7 +22,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "This lab explores a system using an infrared (IR) sensor and fan to control the position of a ping pong ball. The output voltage of the IR sensor and ball position were characterized by measuring the voltage using a custom LabVIEW VI and half-inch marks on the sides of the tube. These values were fit to a 3rd order polynomial using MATLAB. LabVIEW’s built in ProportionalIntegral Derivative (PID) control block was used to implement feedback control, with gains determined by trial and error. Noise, lack of significant figures, and faulty equipment initially led to high degrees of error in our system. After resolving theseissues, the feedback control implemented in our VI worked very well, with accurate steady state responses. The average height at steady state was within a half-inch of the desired height, with less than a half-inch standard deviation. Thus, PID control with an IR sensor to measure the displacement of the ball was sufficient to control the system relatively accurately."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -71,4 +71,4 @@ caption = ""
 
 +++
 
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+Written for a course in instrumentation and measurements, this is mainly here for my own sake.

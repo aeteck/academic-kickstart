@@ -1,6 +1,6 @@
 +++
 title = "Fatigue Testing"
-date = 2015-09-01T00:00:00
+date = 2016-11-30T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -71,4 +71,4 @@ caption = ""
 
 +++
 
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+Written for a course in mechanical behavior, this is mainly here for my own sake.

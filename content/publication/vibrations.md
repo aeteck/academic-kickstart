@@ -1,6 +1,6 @@
 +++
 title = "Vibrations: Spring Mass Damper System"
-date = 2015-09-01T00:00:00
+date = 2017-03-25T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -22,7 +22,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "This lab explores 5 different sensors: infrared (IR), strain gage, voice coil, accelerometer, and linear-variable differential transducer (LVDT), along with the calibrations of these sensors. The sensors were calibrated dynamically and statically and the results were compared against a linear encoder to test the accuracy of the sensors. The strain gage, LVDT accelerometer, and voice coil have a linear best fit relationship between voltage and their relevant geometric measure. The IR sensor has a cubic relationship. However, the strain gage and LVDT has the least variation between the best fit and the actual values. This indicates that they are the most accurate sensor of the five. However, the LVDT provides more details, including the phase and magnitude of the mass spring damper system. The LVDT is more valuable if this information is needed. The strain gage is a cheaper option that provides less information."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -71,4 +71,4 @@ caption = ""
 
 +++
 
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+Written for a course in instrumentation and measurements, this is mainly here for my own sake.

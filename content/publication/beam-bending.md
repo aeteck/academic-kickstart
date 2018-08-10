@@ -22,7 +22,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "This lab involves the use of a three point flexural test to measure the deflection that occurs under a specific load, in order to calculate the Young’s (elastic) modulus. The goal of the lab is to assess the validity and accuracy of this methodology with the available lab equipment, and determine the effects of the propagation of uncertainty for our results. The results illustrated that the tests were not accurate enough to achieve the desired Young’s modulus value, with only one of the samples coming close to do so. In further iterations of this lab, finer measuring tools and additional samples should be used to reach the desired Young’s modulus values."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -71,4 +71,4 @@ caption = ""
 
 +++
 
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+Written for a course in instrumentation and measurements, this is mainly here for my own sake.
