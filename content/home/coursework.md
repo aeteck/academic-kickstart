@@ -20,6 +20,7 @@ Relevant coursework:
 - Microprocessor-Based Mechanical Systems
 - Dynamic Control Systems and Feedback
 - Electrical Devices and Systems
+- Mechatronics Design
 - Newton-Euler Mechanics
 - Lagrangian Mechanics
 - Continuum Mechanics
