@@ -28,7 +28,7 @@ caption = ""
 
 +++
 ![Siesta in demonstration](/img/siesta_irl.jpg)
-<!-- ![Siesta's brains](/img/siesta_brains.jpg) -->
+![Siesta's brains](/img/siesta_side.jpg)
 
 Siesta, a touchscreen-based drink dispenser, was completed with a group of four other students for the senior Mechatronics Design course at Berkeley (ME102B). Our team decided on creating an automatic drink dispenser capable of payment tracking for billing purposes within an internal database and dispensing up to three refrigerated drinks and one hot drink of desired volumes. The inspiration for this project came when one teammate realized there was a regular shortage of coffee for him and his department due to other departments stealing the inventory. Thus, we realized the benefit of creating a versatile drink dispenser for office use that is able to track and bill people’s personal or department’s usage.
 
