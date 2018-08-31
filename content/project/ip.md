@@ -9,7 +9,7 @@ title = "Inverted Pendulum"
 summary = "Classic inverted pendulum on cart controls problem."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "ip_irl.jpg"
+image_preview = "ip.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
