@@ -260,15 +260,15 @@ enableGitInfo = false
   url = "#coursework"
   weight = 3
 
-  [[menu.main]]
-    name = "Reports"
-    url = "#publications"
-    weight = 4
+  # [[menu.main]]
+  #   name = "Reports"
+  #   url = "#publications"
+  #   weight = 4
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 5
+  weight = 4
 
 # Taxonomies.
 [taxonomies]
