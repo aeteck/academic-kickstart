@@ -10,7 +10,6 @@ summary = "Magnetic levitation controls problem."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "maglev.png"
-<!-- maglev_double.png -->
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
