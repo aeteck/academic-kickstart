@@ -250,20 +250,20 @@ enableGitInfo = false
   url = "#about"
   weight = 1
 
-  [[menu.main]]
-    name = "Coursework"
-    url = "#coursework"
-    weight = 2
-
 [[menu.main]]
   name = "Projects"
   url = "#projects"
+  weight = 2
+
+[[menu.main]]
+  name = "Coursework"
+  url = "#coursework"
   weight = 3
 
-  [[menu.main]]
-    name = "Reports"
-    url = "#publications"
-    weight = 4
+[[menu.main]]
+  name = "Reports"
+  url = "#publications"
+  weight = 4
 
 [[menu.main]]
   name = "Contact"
